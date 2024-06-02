@@ -5,7 +5,6 @@
 - 👯 I’m looking forward to collaborate on open source projects
 - 🤔 I’m looking for help with learning Vanilla Html, CSS, Javascript, the MERN stack, and React Native
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm alergic to coffee (almost died once 💀)
 
 
 <!--
