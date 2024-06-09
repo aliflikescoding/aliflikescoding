@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on finishing The Odin Project full stack javascript course, and my computer science degree
 - 🌱 I’m currently learning Vanilla Html, CSS, Javascript, the MERN stack, and a little bit of React Native
 - 👯 I’m looking forward to collaborate on open source projects
-- 🤔 I’m looking for help with learning Vanilla Html, CSS, Javascript, the MERN stack, and React Native
+<!-- - 🤔 I’m looking for help with learning Vanilla Html, CSS, Javascript, the MERN stack, and React Native -->
 - 😄 Pronouns: He/Him
 
 
