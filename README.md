@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on finishing The Odin Project full stack javascript course, and my computer science degree
-- 🌱 I’m currently learning Vanilla Html, CSS, Javascript, the MERN stack, and a little bit of React Native
+- 🌱 I’m currently learning the MERN stack, and other frameworks
 - 👯 I’m looking forward to collaborate on open source projects
 - 📫 How to reach me: alif.likes.coding@gmail.com / my linkedin
 - 😄 Pronouns: He/Him
