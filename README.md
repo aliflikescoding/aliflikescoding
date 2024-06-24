@@ -12,8 +12,6 @@ Alif</a></h1>
 
 - 🌱 I’m currently learning the MERN stack, UI/UX figma and webpack
 
-- 💬 Ask me about **Reactjs & React-Native**
-
 - 📫 How to reach me <a href="https://www.linkedin.com/in/alifwibowo/">My Linked In</a>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
