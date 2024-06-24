@@ -19,7 +19,7 @@
 
 - 📫 How to reach me <a href="https://www.linkedin.com/in/alifwibowo/">My Linked In</a>
 
-<h3 align="" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-left: 10px;"> </h3>
+<h3 align="" > <img src="https://giphy.com/gifs/mail-petscii-3oz8xSwIOv5FGhZFjq" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝  </h3>
 
 <p align="">
 
@@ -34,7 +34,7 @@
 
 </p>
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Github Stats </h3>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Github Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-left: 10px;"></h3>
 <p align="center" ><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=aliflikescoding&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
