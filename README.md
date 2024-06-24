@@ -19,9 +19,9 @@
 
 - 📫 How to reach me <a href="https://www.linkedin.com/in/alifwibowo/">My Linked In</a>
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-<p align="center">
+<p align="">
 
  <div class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/alifwibowo/">
@@ -39,10 +39,6 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=aliflikescoding&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
     bg_color=#808080/></p>
-
-<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliflikescoding&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="aliflikescoding" /></p>
-
-<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliflikescoding&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="aliflikescoding" /></p>
