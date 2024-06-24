@@ -8,7 +8,13 @@ Alif</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
+- 😄 Pronouns: He/Him
+
 - 🔭 I’m currently working in <a href="https://github.com/hmif-undip" target="blank">HMIF UNDIP</a> as a fronted web developer
+
+- 🔭 Also I’m currently working on finishing The Odin Project full stack javascript course, and my computer science degree
+  
+- 👯 I’m looking forward to collaborate on open source projects 
 
 - 🌱 I’m currently learning the MERN stack, UI/UX figma and webpack
 
