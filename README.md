@@ -19,7 +19,7 @@
 
 - 📫 How to reach me <a href="https://www.linkedin.com/in/alifwibowo/">My Linked In</a>
 
-<h3 align="" > <img src="https://giphy.com/gifs/mail-petscii-3oz8xSwIOv5FGhZFjq" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝  </h3>
+<h3 align="" > 📮 Connect with me 🤝 </h3>
 
 <p align="">
 
