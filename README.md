@@ -9,7 +9,7 @@
 
 - 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working in <a href="https://github.com/hmif-undip" target="blank">HMIF UNDIP</a> as a fronted web developer
+- 🔭 I’m currently working in <a href="https://www.linkedin.com/company/hmif-undip/mycompany/" target="blank">HMIF UNDIP</a> as a fronted web developer
 
 - 🔭 Also I’m currently working on finishing The Odin Project full stack javascript course, and my computer science degree
   
