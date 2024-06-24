@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Alif</a></h1>
+<h1 align="center">Hi 👋, I'm Alif Wibowo</h1>
 <h3 align="center">A computer science student at Diponegoro University 🇮🇩</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliflikescoding&label=Profile%20views&color=0e75b6&style=flat" alt="aliflikescoding" /> </p>
