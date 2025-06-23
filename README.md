@@ -9,10 +9,6 @@
 
 - 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working in <a href="https://www.linkedin.com/company/hmif-undip/mycompany/" target="blank">HMIF UNDIP</a> as a website staff
-
-- 💻 Also I’m currently working on finishing The Odin Project full stack javascript course, and my computer science degree
-  
 - 👯 I’m looking forward to collaborate on open source projects 
 
 - 🌱 I’m currently learning the MERN stack, UI/UX figma and webpack
